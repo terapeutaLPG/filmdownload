@@ -8,3 +8,7 @@ powyzsze zrodla tez dzialaja!
 Tworzysz folder dowolny i w nim umieszczasz plik exe, on w tym samym folderze tworzy folder pobrane i tam umieszcza film, pobieranie kazde trwa do czasu jak przycisk pobierz bedzie czarny a nie szary (mozliwy do kliniecia)
 a jak bedzie blad to z tego trzeba skorzystac niestety
 https://chromewebstore.google.com/detail/video-downloader-veevee-%E2%80%93/mncpkpjgigpklafbenkddfcgalikldde?hl=pl&pli=1
+
+
+Strona od filmow
+[Filman.cc](https://filman.cc/)
